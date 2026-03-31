@@ -1,0 +1,9 @@
+Package: com.reeyanu.oneui7
+Name: OneUI 7 Theme (Rootless)
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: reeyanu & abobus & evgeniy558
+Section: Themes
+Description: OneUI 7 Theme – supports Rootless, designed for SnowBoard.
+Filename: ./debs/com.reeyanu.oneui7_1.0_iphoneos-arm64.deb
+Size: 12345
