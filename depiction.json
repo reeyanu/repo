@@ -1,6 +1,6 @@
 {
  "minVersion": "0.1",
- "headerImage": "https://reeyanu.github.io/OneUi7theme/banner.png",
+ "headerImage": "https://reeyanu.github.io/repo/OneUi7.png",
  "tintColor": "#4A90E2",
  "tabs": [
   {
@@ -39,7 +39,7 @@
     },
     {
      "title": "GitHub",
-     "action": "https://github.com/reeyanu/OneUi7theme",
+     "action": "https://github.com/reeyanu/repo",
      "class": "DepictionTableButtonView"
     },
     {
