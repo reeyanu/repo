@@ -1,7 +1,0 @@
-Origin: reeyanski repo
-Label: OneUI7 Repo
-Suite: stable
-Codename: ios
-Architectures: iphoneos-arm64
-Components: main
-Description: OneUI 7 Theme repo for Sileo
