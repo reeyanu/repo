@@ -4,6 +4,16 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: reeyanu & abobus & evgeniy558
 Section: Themes
-Description: OneUI 7 Theme – supports Rootless, designed for SnowBoard.
+Description: OneUI 7 Theme – supports Rootless, designed for SnowBoard. By reeyanu, abobus, evgeniy558
 Filename: ./debs/com.reeyanu.oneui7_1.0_iphoneos-arm64.deb
-Size: 12345
+Size: 1335052
+
+Package: com.reeyanu.oneui7.roothide
+Name: OneUI 7 Theme (RootHide)
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: reeyanu & abobus & evgeniy558
+Section: Themes
+Description: OneUI 7 Theme – supports Roothide, designed for SnowBoard. By reeyanu, abobus, evgeniy558
+Filename: ./debs/com.reeyanu.oneui7.roothide_1.0_iphoneos-arm64e
+Size: 1344842
