@@ -1,76 +1,75 @@
 {
- "minVersion": "0.1",
- "headerImage": "https://reeyanu.github.io/repo/OneUi7.png",
- "tintColor": "#4A90E2",
- "tabs": [
-  {
-   "tabname": "Details",
-   "views": [
+  "class": "DepictionTabView",
+  "tabs": [
     {
-     "class": "DepictionMarkdownView",
-     "markdown": "## OneUI 7 Theme \nClean and modern OneUI-style icon theme for iOS. Designed for SnowBoard with a consistent and minimal look."
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionImageView",
+          "url": "https://reeyanu.github.io/repo/OneUi7.png",
+          "height": 150
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## OneUI 7 Theme \nClean and modern OneUI-style icon theme for iOS. Designed for SnowBoard with a consistent and minimal look, supporting Rootless and Roothide versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Theme Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "iOS Version",
+          "text": "Rootless / Roothide 14.0+"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Released",
+          "text": "01/04/2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "reeyanu"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Co-Authors",
+          "text": "Abobus & evgeniy558"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "My GitHub",
+          "action": "https://github.com/reeyanu"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 20
+        }
+      ]
     },
     {
-     "class": "DepictionSeparatorView"
-    },
-    {
-     "title": "Theme Information",
-     "class": "DepictionHeaderView"
-    },
-    {
-     "title": "Version",
-     "text": "1.0",
-     "class": "DepictionTableTextView"
-    },
-    {
-     "title": "Compatibility",
-     "text": "Rootless & Roothide",
-     "class": "DepictionTableTextView"
-    },
-    {
-     "title": "Released",
-     "text": "2026",
-     "class": "DepictionTableTextView"
-    },
-    {
-     "title": "Developer",
-     "text": "reeyanu & abobus & evgeniy558",
-     "class": "DepictionTableTextView"
-    },
-    {
-     "title": "GitHub",
-     "action": "https://github.com/reeyanu/repo",
-     "class": "DepictionTableButtonView"
-    },
-    {
-     "spacing": 20,
-     "class": "DepictionSpacerView"
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Initial release with Rootless and Roothide versions."
+        }
+      ]
     }
-   ],
-   "class": "DepictionStackView"
-  },
-  {
-   "tabname": "Changelog",
-   "views": [
-    {
-     "title": "1.0",
-     "useBoldText": true,
-     "useBottomMargin": false,
-     "class": "DepictionSubheaderView"
-    },
-    {
-     "markdown": "Initial release of OneUI 7 Theme. Core system app icons included.",
-     "useSpacing": false,
-     "class": "DepictionMarkdownView"
-    },
-    {
-     "markdown": "<small style=\"color: #999; margin-top: -4px;\">Released 2026</small>",
-     "useRawFormat": true,
-     "class": "DepictionMarkdownView"
-    }
-   ],
-   "class": "DepictionStackView"
-  }
- ],
- "class": "DepictionTabView"
+  ]
 }
