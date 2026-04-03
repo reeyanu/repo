@@ -1,11 +1,11 @@
 Package: com.reeyanu.oneui7
 Name: OneUI 7 Theme (Rootless)
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: reeyanu
 Description: OneUI 7 Theme — Clean and modern OneUI-style icon theme for iOS. Supports SnowBoard, Rootless version.
 Depiction: https://reeyanu.github.io/repo/depiction.json
-Filename: ./debs/com.reeyanu.oneui7_1.0_iphoneos-arm64.deb
+Filename: /debs/com.reeyanu.oneui7_1.1_iphoneos-arm64.deb
 Section: Themes
 Installed-Size: 10
 Author: reeyanu
@@ -14,12 +14,12 @@ Size: 133502
 
 Package: com.reeyanu.oneui7.roothide
 Name: OneUI 7 (Roothide)
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: reeyanu
 Description: OneUI 7 Theme — Clean and modern OneUI-style icon theme for iOS. Supports SnowBoard, Roothide version.
 Depiction: https://reeyanu.github.io/repo/depiction.json
-Filename: ./debs/com.reeyanu.oneui7.roothide_1.0_iphoneos-arm64e.deb
+Filename: /debs/com.reeyanu.oneui7.roothide_1.1_iphoneos-arm64e.deb
 Section: Themes
 Installed-Size: 10
 Depends: rootless-compat (>=0.9)
