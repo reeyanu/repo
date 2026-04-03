@@ -1,6 +1,5 @@
-Release:
-  Origin: reeyanski repo
-  Label: OneUI 7 Repo
+Origin: reeyanski repo
+Label: OneUI 7 Repo
   Suite: stable
   Version: 1.1
   Codename: oneui7
