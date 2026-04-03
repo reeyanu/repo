@@ -1,7 +1,7 @@
 Origin: reeyanski repo
-Label: OneUI 7 Repo
-  Suite: stable
-  Version: 1.1
-  Codename: oneui7
-  Components: main
-  Architectures: iphoneos-arm64 iphoneos-arm64e
+Label: reeyanski' repo
+Suite: stable
+Version: 1.1
+Codename: oneui7
+Components: main
+Architectures: iphoneos-arm64 iphoneos-arm64e
