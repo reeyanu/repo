@@ -10,7 +10,7 @@ Section: Themes
 Installed-Size: 10
 Author: reeyanu
 Co-authors: abobus & evgeniy558
-Size: 133502
+Size: 2733320
 
 Package: com.reeyanu.oneui7.roothide
 Name: OneUI 7 (Roothide)
@@ -25,4 +25,4 @@ Installed-Size: 10
 Depends: rootless-compat (>=0.9)
 Author: reeyanu 
 Co-authors: abobus & evgeniy558
-Size: 1344842
+Size: 5473358
