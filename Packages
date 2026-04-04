@@ -1,28 +1,16 @@
 Package: com.reeyanu.oneui7
-Name: OneUI 7 Theme (Rootless)
 Version: 1.1
 Architecture: iphoneos-arm64
-Maintainer: reeyanu
-Description: OneUI 7 Theme — Clean and modern OneUI-style icon theme for iOS. Supports SnowBoard, Rootless version.
-Depiction: https://reeyanu.github.io/repo/depiction.json
-Filename: debs/com.reeyanu.oneui7_1.1_iphoneos-arm64.deb
-Section: Themes
-Installed-Size: 10
-Author: reeyanu
-Co-authors: abobus & evgeniy558
+Maintainer: reeyanu & abobus & evgeniy558
+Depends: com.spark.snowboard
+Filename: ./com.reeyanu.oneui7_1.1_iphoneos-arm64.deb
 Size: 2733320
-
-Package: com.reeyanu.oneui7.roothide
-Name: OneUI 7 (Roothide)
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: reeyanu
-Description: OneUI 7 Theme — Clean and modern OneUI-style icon theme for iOS. Supports SnowBoard, Roothide version.
-Depiction: https://reeyanu.github.io/repo/depiction.json
-Filename: debs/com.reeyanu.oneui7.roothide_1.1_iphoneos-arm64e.deb
+MD5sum: 5ac4b5a2b4b4574aff90116611fa8e86
+SHA1: 2ba29db27cd26340598b7408c176f86e2e408db1
+SHA256: b69cf15216e319ad51e9cf517a454d2b6eaa1701ff4426fc96da9128ad73bc14
 Section: Themes
-Installed-Size: 10
-Depends: rootless-compat (>=0.9)
-Author: reeyanu 
-Co-authors: abobus & evgeniy558
-Size: 5473358
+Description: Clean and modern icon theme for SnowBoard, theme OneUi 7. Make your phone look like Samsung LoL. Rootless users only
+Author: reeyanu & abobus & evgeniy558
+Name: OneUi 7
+Sileodepiction: https://reeyanu.github.io/repo/depiction.json
+
